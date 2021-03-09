@@ -1,4 +1,7 @@
 a = 1
 b = 2
 c = a + b
-print(c)
+d = a - b
+e = a * b
+f = a / b
+print(c, d, e, f)
